@@ -21,10 +21,7 @@
 
   - ![](https://img.shields.io/badge/Personal%20Email-cuongthinh2002%40gmail.com-00FFFF)
 #
-![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh)
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/overview.svg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teddythinh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddythinh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh)
 ![](https://activity-graph.herokuapp.com/graph?username=teddythinh&theme=minimal)
-
-
