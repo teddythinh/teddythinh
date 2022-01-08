@@ -20,8 +20,8 @@
 - 🚧 My config: 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B20-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.10.0-important)
-![G++](https://img.shields.io/badge/G%2B%2B%20Compiler-11.2.0-informational)
+![Python](https://img.shields.io/badge/Python-v3.10.0-important)
+![G++](https://img.shields.io/badge/G%2B%2B%20Compiler-v11.2.0-informational)
 ![Windows](https://img.shields.io/badge/Windows-11%20version%2021H2-blueviolet)
 
 - 📫 Feel free to contact me:
