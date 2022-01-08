@@ -4,25 +4,27 @@
 - 💻 I’m currently learning [**Information Technology**](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325).
 - 🧑‍💻 I'm using these languages **(Will use more in future)**:
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  - ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 - 💡My IDEs/Text Editors: 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  - ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+  - ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - 🚧 My config: 
 
-![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B20-brightgreen)
-![Python](https://img.shields.io/badge/Python-v3.10.0-important)
-![G++](https://img.shields.io/badge/G%2B%2B%20Compiler-v11.2.0-informational)
-![Windows](https://img.shields.io/badge/Windows-11%20version%2021H2-blueviolet)
+  - ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B20-brightgreen)
+  - ![PyPy](https://img.shields.io/badge/PyPy-v3.8.12-red)
+  - ![Python](https://img.shields.io/badge/Python-v3.10.0-important)
+  - ![PowerShell](https://img.shields.io/badge/PowerShell-v7.2.1-9cf)
+  - ![G++](https://img.shields.io/badge/G%2B%2B%20Compiler-v11.2.0-informational)
+  - ![Windows](https://img.shields.io/badge/Windows-11%20version%2021H2-blueviolet)
 
 - 📫 Feel free to contact me:
   
