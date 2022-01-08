@@ -4,7 +4,7 @@
 - 💻 I’m currently learning [**Information Technology**](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325).
 - 📫 How to contact me:
   - [**Facebook**](https://www.facebook.com/Hi.im.Teddy/)
-  - [**Instagram**](https://www.instagram.com/teddythinh10/) ![https://www.instagram.com/teddythinh10](https://img.shields.io/badge/Instagram-teddythinh-pink)
+  - [![https://www.instagram.com/teddythinh10](https://img.shields.io/badge/Instagram-teddythinh-pink)](https://www.instagram.com/teddythinh10/)
   - **School email:** 20127335@student.hcmus.edu.vn
   - **Personal email:** cuongthinh2002@gmail.com
 #
