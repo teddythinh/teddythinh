@@ -54,3 +54,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddythinh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://activity-graph.herokuapp.com/graph?username=teddythinh&theme=minimal)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
