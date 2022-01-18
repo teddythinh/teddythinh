@@ -1,6 +1,6 @@
 # HELLO THERE 👋 WELCOME TO MY LOVELY PROFILE! 🥰
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teddythinh&label=Profile%20views&color=0e75b6&style=flat" alt="teddythinh" /> </p>
+![view](https://komarev.com/ghpvc/?username=teddythinh&label=Profile%20views&color=0e75b6&style=flat)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&theme=buddhism&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
