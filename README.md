@@ -1,4 +1,5 @@
 # HELLO THERE 👋 WELCOME TO MY LOVELY PROFILE! 🥰
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddythinh&no-bg=true&theme=radical&margin-w=15&margin-h=15&row=1&column=7" alt="teddythinh" /></a> </p>
 
 - 👨‍💼 My name is **Thinh Pham**, you can call me **Teddy**.
