@@ -1,4 +1,6 @@
 # HELLO THERE 👋 WELCOME TO MY LOVELY PROFILE! 🥰
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👨‍💼 My name is **Thinh Pham**, you can call me **Teddy**.
 - 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
 - 💻 I’m currently learning [**Information Technology**](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325).
@@ -60,5 +62,3 @@
 C++   34 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh)](https://github.com/ryo-ma/github-profile-trophy)
