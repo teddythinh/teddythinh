@@ -1,5 +1,7 @@
 # HELLO THERE 👋 WELCOME TO MY LOVELY PROFILE! 🥰
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teddythinh&label=Profile%20views&color=0e75b6&style=flat" alt="teddythinh" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddythinh&no-bg=true&theme=radical&margin-w=15&margin-h=15&row=1&column=7" alt="teddythinh" /></a> </p>
 
 - 👨‍💼 My name is **Thinh Pham**, you can call me **Teddy**.
@@ -48,8 +50,7 @@
     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/teddythinh10/)
 
   - ![](https://img.shields.io/badge/School%20Email-20127335%40student.hcmus.edu.vn-ff69b4)
-
-  - ![](https://img.shields.io/badge/Personal%20Email-cuongthinh2002%40gmail.com-00FFFF)
+    ![](https://img.shields.io/badge/Personal%20Email-cuongthinh2002%40gmail.com-00FFFF)
 #
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/overview.svg)
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/languages.svg)
