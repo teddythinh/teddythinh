@@ -60,3 +60,5 @@
 C++   34 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh)](https://github.com/ryo-ma/github-profile-trophy)
