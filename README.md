@@ -117,3 +117,5 @@ R                        1 repo              ██░░░░░░░░░�
 
  Last Updated on 16/02/2022 18:43:53 UTC
 <!--END_SECTION:waka-->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
