@@ -56,8 +56,7 @@
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/languages.svg)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teddythinh&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![](https://activity-graph.herokuapp.com/graph?username=teddythinh&theme=minimal)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teddythinh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2024%20mins-blue)
