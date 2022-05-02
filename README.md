@@ -87,13 +87,14 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 5 mins         █████████████████████████   99.76% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 5 mins         █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +111,7 @@ R                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2022 18:46:58 UTC
+ Last Updated on 02/05/2022 18:49:06 UTC
 <!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
