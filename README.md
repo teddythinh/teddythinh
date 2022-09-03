@@ -20,18 +20,8 @@
 
   - ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-    ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
   - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-- 🚧 My config: 
-
-  - ![PyPy](https://img.shields.io/badge/PyPy-v3.8.12-red)
-    ![Python](https://img.shields.io/badge/Python-v3.10.0-important)
-  - ![G++](https://img.shields.io/badge/G%2B%2B%20Compiler-v11.2.0-informational)
-    ![C++](https://img.shields.io/badge/C%2B%2B-C%2B%2B20-brightgreen)
-  - ![PowerShell](https://img.shields.io/badge/PowerShell-v7.2.1-9cf)
-    ![Windows](https://img.shields.io/badge/Windows-11%20version%2021H2-blueviolet)
     
 - ⚒️ My utilities and productivity:
   - ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -45,9 +35,6 @@
     ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 - 📫 Feel free to contact me:
-  
-  - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Hi.im.Teddy/)
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/teddythinh10/)
 
   - ![](https://img.shields.io/badge/School%20Email-20127335%40student.hcmus.edu.vn-ff69b4)
     ![](https://img.shields.io/badge/Personal%20Email-cuongthinh2002%40gmail.com-00FFFF)
@@ -56,64 +43,5 @@
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/languages.svg)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
-🌆 Daytime    94 commits     █████░░░░░░░░░░░░░░░░░░░░   20.26% 
-🌃 Evening    230 commits    ████████████░░░░░░░░░░░░░   49.57% 
-🌙 Night      116 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
-Tuesday      63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-Thursday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
-Friday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-Saturday     93 commits     █████░░░░░░░░░░░░░░░░░░░░   20.04% 
-Sunday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-SQL                      3 hrs 33 mins       ████████████████████░░░░░   79.93% 
-Python                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07%
-
-🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
-Jupyter Notebook         3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Assembly                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-R                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-
- Last Updated on 11/06/2022 18:44:37 UTC
-<!--END_SECTION:waka-->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
