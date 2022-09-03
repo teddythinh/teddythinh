@@ -54,8 +54,8 @@
 
 - 📫 Contact me via:
 
-  - Work email: 20127335@student.hcmus.edu.vn
-  - Personal email: cuongthinh2002@gmail.com
+  - Work email: **20127335@student.hcmus.edu.vn**
+  - Personal email: **cuongthinh2002@gmail.com**
 #
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teddythinh&show_icons=true&theme=vue)
 
