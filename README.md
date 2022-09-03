@@ -52,10 +52,10 @@
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
-- 📫 Feel free to contact me:
+- 📫 Contact me via:
 
-  - ![](https://img.shields.io/badge/School%20Email-20127335%40student.hcmus.edu.vn-ff69b4)
-    ![](https://img.shields.io/badge/Personal%20Email-cuongthinh2002%40gmail.com-00FFFF)
+  - Work email: 20127335@student.hcmus.edu.vn
+  - Personal email: cuongthinh2002@gmail.com
 #
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teddythinh&show_icons=true&theme=vue)
 
