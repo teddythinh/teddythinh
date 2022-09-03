@@ -62,6 +62,5 @@
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/overview.svg)
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/languages.svg)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh) [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+#
