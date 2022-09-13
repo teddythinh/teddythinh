@@ -62,7 +62,10 @@
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/overview.svg)
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/languages.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozynahlpf3mh7zqnga6nwjax2&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes) ![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh) 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes) 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozynahlpf3mh7zqnga6nwjax2&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh) 
 #
 
