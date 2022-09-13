@@ -64,4 +64,4 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes) ![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh) 
 #
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozynahlpf3mh7zqnga6nwjax2&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ozynahlpf3mh7zqnga6nwjax2&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozynahlpf3mh7zqnga6nwjax2&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ozynahlpf3mh7zqnga6nwjax2&redirect=true)
