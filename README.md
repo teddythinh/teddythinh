@@ -1,14 +1,15 @@
 # HELLO THERE 👋 WELCOME TO MY LOVELY PROFILE! 🥰
 
-![view](https://komarev.com/ghpvc/?username=teddythinh&label=Profile%20views&color=0e75b6&style=flat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&theme=buddhism&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 👨‍💼 My name is **Thinh Pham**, you can call me **Teddy**.
 - 🏫 I’m currently studying at [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/).
 - 💻 I’m currently learning [**Information Technology**](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325).
-- 🧑‍💻 I'm using these languages, frameworks, libraries **(Will update more in future)**:
 
+<details> <summary>🧑‍💻 I'm using these languages, frameworks, libraries</summary>
+  
+  
   - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
     ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -24,8 +25,9 @@
   - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
     ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+</details>
 
-- 💡My IDEs/Text Editors: 
+<details> <summary>💡IDEs/Text Editors</summary> 
 
   - ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
@@ -34,8 +36,10 @@
   - ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
     ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  </details>
     
-- ⚒️ My utilities and productivity:
+<details> <summary>⚒️ Utilities and productivity</summary>
+  
   - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -51,21 +55,20 @@
   - ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+</details> 
 
-- 📫 Contact me via:
+____
 
-  - Work email: **20127335@student.hcmus.edu.vn**
-  - Personal email: **cuongthinh2002@gmail.com**
-#
+<details> <summary>🌟🌟🌟 Some statistics 🌟🌟🌟</summary>
+  
 ![GitHub Profile Summary stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teddythinh&show_icons=true&theme=vue)
 
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/overview.svg)
 ![](https://github.com/teddythinh/My-profile/blob/master/generated/languages.svg)
+</details>
 
+<details> <summary>🌟🌟🌟 Quote of the day 🌟🌟🌟</summary>
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes) 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ozynahlpf3mh7zqnga6nwjax2&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-![](https://github-readme-streak-stats.herokuapp.com/?user=teddythinh) 
-#
-
+</details>
