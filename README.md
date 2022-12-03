@@ -1,6 +1,6 @@
 # HELLO THERE 👋 WELCOME TO MY LOVELY PROFILE! 🥰
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&column=-1&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👨‍💼 My name is **Thinh Pham**, you can call me **Teddy**.
