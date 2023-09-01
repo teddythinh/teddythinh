@@ -1,11 +1,4 @@
-# HELLO THERE 👋 WELCOME TO MY LOVELY PROFILE! 🥰
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=teddythinh&column=-1&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
-
-I'm **Thinh Pham**, you can call me **Teddy**.
-
-Studying at the [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/)  
-Pursuing a bachelor's degree in Information Technology.
+![header](download.png)
 
 ## 💻 Workspace Specs
 
